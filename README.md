@@ -2,7 +2,7 @@
 
 This is a simeple C language code.
 
-I made and check it in FreeBSD 13.
+I made and checked it in FreeBSD 13.
 
 Compile this code and run, then it shows Fibonacci numbers.
 
