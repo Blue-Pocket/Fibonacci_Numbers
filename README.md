@@ -8,7 +8,7 @@ Compile this code and run, then it shows Fibonacci numbers.
 
 Let me show you the procedure:
 
-$ is prompt mark.
+$ is shell prompt mark.
 
 $ clang -Wall Fibonacci_number1.c -o fibo
 
