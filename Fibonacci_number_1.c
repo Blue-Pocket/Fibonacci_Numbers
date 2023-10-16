@@ -17,6 +17,7 @@ int main(){
 		for (i=0; i<20; i++){
 			printf("%d\t",my_array[i]);
 			}
+			printf("\n");
 	return 0;
 }
 
